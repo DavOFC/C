@@ -5,7 +5,7 @@
 //
 
 let fs = require('fs')
-global.owner = ['6282221xxxxxx', '6282221xxxxxx','6282221xxxxxx', '6282221xxxxxx', '6282221xxxxxx'] // Letakan nomor kamu disini [put your number here bro]
+global.owner = ['6281311262507', '6281311262507','6281311262507', '6281311262507', '621311262507'] // Letakan nomor kamu disini [put your number here bro]
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -42,7 +42,7 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Execute'
+global.packname = 'DapiGanteng'
 global.author = '091102'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
